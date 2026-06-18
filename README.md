@@ -1,1 +1,1 @@
-# Legacy-OpenGL-Triangle
+# Legacy-OpenGL-Triangle (VS Setup)
